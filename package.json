@@ -1,6 +1,6 @@
 {
   "name": "aria2c-static-electron",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "static binaries of aria2c for electron",
   "main": "index.js",
   "directories": {
