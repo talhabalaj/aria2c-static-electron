@@ -4,11 +4,11 @@
 
 This module is installed via npm:
 
-```$ npm install ffmpeg-static-electron```
+```$ npm install aria2c-static-electron```
 
 ## Example Usage
 
-Returns the path of a statically linked ffmpeg binary on the local filesystem.
+Returns the path of a statically linked aria2c binary on the local filesystem.
 
 ```
 const aria2c = require('aria2c-static-electron');
