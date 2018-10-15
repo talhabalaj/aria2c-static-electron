@@ -10,7 +10,7 @@ This module is installed via npm:
 
 Returns the path of a statically linked aria2c binary on the local filesystem.
 
-```
+```javascript
 const aria2c = require('aria2c-static-electron');
 console.log(aria2c.path); // c:\users\talha\project\node_modules\bin\win\x64\aria2.exe
 ```
